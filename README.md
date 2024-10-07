@@ -30,7 +30,13 @@ Lê Nguyễn Hưng | 22520507 | 22520507@gm.uit.edu.vn | https://github.com/Leng
 
 ### Bài tập thực hành hằng tuần
 [Tại đây](./Practice_Exercises)
-
+### Notebook Colab
+[Tại đây](./Colab_Assignments)
 ### Đồ án cuối kì
-NONE
+[Tại đây](./Final_Project)
+Topic:
+- [x] Thu thập và gán nhãn dữ liệu thủ công
+- [x] Source code
+- [x] Báo cáo
+- [x] API demo
 
